@@ -1,0 +1,13 @@
+streamlit
+#streamlit-option-menu
+pandas
+numpy
+#plotly
+scikit-learn
+matplotlib
+
+# Requirements for the Fintech Lending Streamlit App
+
+#streamlit==1.33.0
+#pandas==2.2.1
+#numpy==1.26.4
